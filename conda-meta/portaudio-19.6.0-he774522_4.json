@@ -1,0 +1,139 @@
+{
+  "build": "he774522_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aratr\\anaconda3\\pkgs\\portaudio-19.6.0-he774522_4",
+  "files": [
+    "Library/bin/portaudio.dll",
+    "Library/include/pa_asio.h",
+    "Library/include/pa_jack.h",
+    "Library/include/pa_linux_alsa.h",
+    "Library/include/pa_mac_core.h",
+    "Library/include/pa_win_ds.h",
+    "Library/include/pa_win_wasapi.h",
+    "Library/include/pa_win_waveformat.h",
+    "Library/include/pa_win_wdmks.h",
+    "Library/include/pa_win_wmme.h",
+    "Library/include/portaudio.h",
+    "Library/lib/portaudio.lib",
+    "Library/lib/portaudio_static.lib",
+    ".nonadmin"
+  ],
+  "fn": "portaudio-19.6.0-he774522_4.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\aratr\\anaconda3\\pkgs\\portaudio-19.6.0-he774522_4",
+    "type": 1
+  },
+  "md5": "912539deab20c3d40b7c6ae496b4265c",
+  "name": "portaudio",
+  "package_tarball_full_path": "C:\\Users\\aratr\\anaconda3\\pkgs\\portaudio-19.6.0-he774522_4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/portaudio.dll",
+        "path_type": "hardlink",
+        "sha256": "e94579ad253038da69408b53de06b90c37153388927dd59b4627a0f4212e30bd",
+        "sha256_in_prefix": "e94579ad253038da69408b53de06b90c37153388927dd59b4627a0f4212e30bd",
+        "size_in_bytes": 230400
+      },
+      {
+        "_path": "Library/include/pa_asio.h",
+        "path_type": "hardlink",
+        "sha256": "9e5c38823645b3d795a3239ecb5a638be74c4ddd785cad0f23e3d0818f64c982",
+        "sha256_in_prefix": "9e5c38823645b3d795a3239ecb5a638be74c4ddd785cad0f23e3d0818f64c982",
+        "size_in_bytes": 5705
+      },
+      {
+        "_path": "Library/include/pa_jack.h",
+        "path_type": "hardlink",
+        "sha256": "4aac2a475627d32817c869b1ef9f714ee5890b9b84d131a62fad16c8b078dcf3",
+        "sha256_in_prefix": "4aac2a475627d32817c869b1ef9f714ee5890b9b84d131a62fad16c8b078dcf3",
+        "size_in_bytes": 2805
+      },
+      {
+        "_path": "Library/include/pa_linux_alsa.h",
+        "path_type": "hardlink",
+        "sha256": "f55a1154cdbdc669b551edaafa68da3246b9eb6dc7bb8f26a64976dd59cc82dc",
+        "sha256_in_prefix": "f55a1154cdbdc669b551edaafa68da3246b9eb6dc7bb8f26a64976dd59cc82dc",
+        "size_in_bytes": 3814
+      },
+      {
+        "_path": "Library/include/pa_mac_core.h",
+        "path_type": "hardlink",
+        "sha256": "bb33d5f0e11113c4927c8f2d208b034d13ef93c28c7b414c563d3597cc591b0c",
+        "sha256_in_prefix": "bb33d5f0e11113c4927c8f2d208b034d13ef93c28c7b414c563d3597cc591b0c",
+        "size_in_bytes": 7551
+      },
+      {
+        "_path": "Library/include/pa_win_ds.h",
+        "path_type": "hardlink",
+        "sha256": "7df9c21c9017b73c9110224f112fc52bfc8bf93672606098a3a0a2302f011b33",
+        "sha256_in_prefix": "7df9c21c9017b73c9110224f112fc52bfc8bf93672606098a3a0a2302f011b33",
+        "size_in_bytes": 3422
+      },
+      {
+        "_path": "Library/include/pa_win_wasapi.h",
+        "path_type": "hardlink",
+        "sha256": "f63dad9209f7c9bff965c94164527b9597b1ac49e5958bb2b21f89543c0d9f5b",
+        "sha256_in_prefix": "f63dad9209f7c9bff965c94164527b9597b1ac49e5958bb2b21f89543c0d9f5b",
+        "size_in_bytes": 16007
+      },
+      {
+        "_path": "Library/include/pa_win_waveformat.h",
+        "path_type": "hardlink",
+        "sha256": "079972899f43bd6693d06632071e25e0548ff4a42e24b10a0e471608fe5eb9f4",
+        "sha256_in_prefix": "079972899f43bd6693d06632071e25e0548ff4a42e24b10a0e471608fe5eb9f4",
+        "size_in_bytes": 8838
+      },
+      {
+        "_path": "Library/include/pa_win_wdmks.h",
+        "path_type": "hardlink",
+        "sha256": "729f709e703cd5b3fb2f024df92b1ff44c88cac0cd7d3c3535ce8a5ec169fcfb",
+        "sha256_in_prefix": "729f709e703cd5b3fb2f024df92b1ff44c88cac0cd7d3c3535ce8a5ec169fcfb",
+        "size_in_bytes": 4890
+      },
+      {
+        "_path": "Library/include/pa_win_wmme.h",
+        "path_type": "hardlink",
+        "sha256": "76c897b2f4447fa980a6ea959bc67ab5c702cf349ebce170b2754b849ad9cf89",
+        "sha256_in_prefix": "76c897b2f4447fa980a6ea959bc67ab5c702cf349ebce170b2754b849ad9cf89",
+        "size_in_bytes": 6844
+      },
+      {
+        "_path": "Library/include/portaudio.h",
+        "path_type": "hardlink",
+        "sha256": "f563f1eaf48bfa8e8f650b1e42c7f1e157c6a4db88564af5d88bc15a367f5d1d",
+        "sha256_in_prefix": "f563f1eaf48bfa8e8f650b1e42c7f1e157c6a4db88564af5d88bc15a367f5d1d",
+        "size_in_bytes": 47638
+      },
+      {
+        "_path": "Library/lib/portaudio.lib",
+        "path_type": "hardlink",
+        "sha256": "bc71565ebf39896073715fa056f2d1f6f6bdc2fe801e71cb93331a5f30908718",
+        "sha256_in_prefix": "bc71565ebf39896073715fa056f2d1f6f6bdc2fe801e71cb93331a5f30908718",
+        "size_in_bytes": 9556
+      },
+      {
+        "_path": "Library/lib/portaudio_static.lib",
+        "path_type": "hardlink",
+        "sha256": "625a2bf34b8b291d7a8b0b9831020f57c31373185795393c0b0334778acda3e1",
+        "sha256_in_prefix": "625a2bf34b8b291d7a8b0b9831020f57c31373185795393c0b0334778acda3e1",
+        "size_in_bytes": 385840
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "123a0662dddd31f7aea05df76f3183f9b2dc6e92b3ad43f1d039ab6521acde6b",
+  "size": 207354,
+  "subdir": "win-64",
+  "timestamp": 1583787703000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/portaudio-19.6.0-he774522_4.conda",
+  "version": "19.6.0"
+}
